@@ -7,7 +7,9 @@ Carlson_Iceberg_PhotoScan_GS_DS_distv1.py performs gradual selection on the spar
 
 Carlson_Iceberg_PhotoScan_DenseCloud_ColorFilter_distv1.py is an optional script that can be used to select points in the dense point cloud by color. It can be useful when cleaning the dense point cloud. 
 
-These scripts were developed to create high resolution 3D mesh models of drifting icebergs in Greenland using UAV images. Links to the UAV imagery and the mesh models are provided below
+These scripts were developed to create high resolution 3D mesh models of drifting icebergs in Greenland using UAV images that are described in more detail in Carlson et al. Quantifying iceberg deterioration using UAV imagery and structure from motion photogrammetry software. Submitted to Remote Sensing.
+
+Links to the UAV imagery and the mesh models are provided below
 
 Iceberg 1, Survey 1, 2017-08-09
 https://zenodo.org/record/4306683#.X9MxZFNKjUo
